@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="MLTE5-Oreo/android_device_dexp_mlte5" path="device/DEXP/MLTE5" remote="github" revision="gzosp-o" />
+  <project name="MLTE5-Oreo/android_kernel_dexp_msm8916" path="kernel/dexp/msm8916" remote="github" revision="gzosp-o" />
+  <project name="MLTE5-Oreo/android_vendor_dexp_mlte5" path="vendor/DEXP/MLTE5" remote="github" revision="gzosp-o" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.0" />
+</manifest>
